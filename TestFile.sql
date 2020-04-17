@@ -28,3 +28,5 @@ END
 END
 	CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
 		CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
+		
+		Adeel Here you need to pull first then you can push ok
