@@ -13,6 +13,8 @@ BEGIN
 END
 	CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
         CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
+
+         rubaisha here
         CREATE PASSWORD [' + @password + '] WITH DEFAULT_SCHEMA=[dbo]
 
         
