@@ -1,8 +1,8 @@
 # TestCode
 how to use git
-Step#01 
+## Step#01 
 install git bash on your computer
-Step#02
+## Step#02
 create git folder anywhere in your computer
 Step#03
 launch git bash from that git folder
