@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 learning github
+=======
+gckdtudkyfvlyuvrvuykf
+
+Adeel usman
+>>>>>>> aa71941d1c961b446e3da3a8f64de12fbafee76e
