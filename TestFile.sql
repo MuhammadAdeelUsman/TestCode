@@ -15,7 +15,7 @@ END
         CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
 
          rubaisha here
-new file
+         new file
         CREATE PASSWORD [' + @password + '] WITH DEFAULT_SCHEMA=[dbo]
 
         
