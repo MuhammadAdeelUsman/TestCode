@@ -15,3 +15,11 @@ END
 		CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
 
 	end
+
+
+    CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
+	CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
+	CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
+END
+	CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
+		CREATE USER [' + @username + '] WITH DEFAULT_SCHEMA=[dbo]
